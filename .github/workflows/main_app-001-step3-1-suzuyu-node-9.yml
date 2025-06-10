@@ -3,7 +3,6 @@
 
 name: Build and deploy Node.js app to Azure Web App - app-001-step3-1-suzuyu-node-9
 
-
 on:
   push:
     branches:
